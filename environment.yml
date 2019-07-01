@@ -1,0 +1,12 @@
+name: module-demo
+channels:
+  - damianavila82
+  - conda-forge
+dependencies:
+  - python
+  - tornado<6
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - rise=5.5.0
